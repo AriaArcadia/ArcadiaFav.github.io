@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: AriaArcadia's homepage
 description: My Bookmarks navigator page,somehow shabby
+kramdown:
+  input:GFM
